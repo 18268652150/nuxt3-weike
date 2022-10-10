@@ -1,7 +1,9 @@
 <template>
   <div>
-    <PageHeader />
+    <!-- <PageHeader />-->
+    <Header/>
     <slot />
+    <Footer/>
     <!-- <PageFooter/> -->
   </div>
 </template>
